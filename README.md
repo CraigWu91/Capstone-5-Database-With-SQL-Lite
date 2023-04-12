@@ -3,8 +3,8 @@ This program is a book inventory management system that creates and connects to 
 Running the program will create the database called ebookstore, insert 5 entries into the database and present the following menu:
 * 1.) Enter book
 * 2.) Update book
-* 3) Delete book
-* 4) Search books
+* 3.) Delete book
+* 4.) Search books
 * 0.) Exit
 
 # Instructions
